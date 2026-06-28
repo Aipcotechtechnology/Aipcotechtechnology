@@ -1,7 +1,7 @@
 ## Hi there 👋
-https://github.com/DollyXSoul
+
 <!--
-**Aipcotechtechnology/Aipcotechtechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aipcotechtechnology/Aipcotechtechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) https://github.com/DollyXSoul appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
